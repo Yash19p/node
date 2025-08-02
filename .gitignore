@@ -1,2 +1,3 @@
 #Ingnore node_modules directorty
 node_modules/
+.env
